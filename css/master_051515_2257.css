@@ -1,0 +1,90 @@
+* {
+margin: 0;
+padding: 0;
+}
+body {
+}
+#body {
+font: 12px 'Lucida Grande', Gill Sans MT, sans-serif;
+background: #FFFFFF;
+}
+#container {
+border-top: 1px solid #DADADA;
+}
+a {
+outline: none;
+color:#5577B9;
+text-decoration:none;
+}
+a:hover {
+color: #808080;
+}
+a img {
+border: none;
+}
+ul {
+margin-left: 0em;
+margin-bottom: 1em;
+list-style-type: none;
+}
+ol {
+margin-left: 0em;
+margin-bottom: 1em;
+}
+#page {
+width: 330px;
+margin: 0 auto;
+padding: 0 0;
+}
+#header h1 a, #header h1 a:hover {
+height: 60px;
+font: 45px 'Lucida Grande', Gill Sans MT, sans-serif;
+letter-spacing: 2px;
+padding: 0 0;
+margin: 0 0 ;
+text-decoration: none !important;
+}
+#header span {
+font-size: 18px;
+padding: 0 0 0 23px;
+}
+#sidebar {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+float:left;
+margin:0 0;
+padding:0 0;
+width:250px;
+}
+#content {
+margin-top: 50px;
+}
+#main {
+float:left;
+margin:0 0;
+padding:0;
+width:350px;
+}
+#main p {
+margin-bottom: 5px;
+}
+#sites li {
+margin-bottom: 2px;
+}
+#main div {
+margin-bottom: 25px;
+}
+#main h3, #sidebar h3 {
+color:#222222;
+font-size:15px;
+letter-spacing:-1px;
+margin:0;
+padding:0 0 5px;
+}
+img#profile {
+border: 1px solid black;
+}
+ul#twitter_update_list li {
+margin-bottom: 10px;
+}
